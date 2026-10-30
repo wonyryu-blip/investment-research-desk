@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-30",
+  "source": "https://research-library-archive.wony-ryu.chatgpt.site/api/desk",
+  "sourceCompanies": 13,
+  "sourceAvailableItems": 25,
+  "sourcePendingItems": 2,
+  "targetCompanies": 15,
+  "targetAvailableItems": 26,
+  "targetPendingItems": 2,
+  "uploadedAttachments": 0,
+  "externalReferenceLinks": 25,
+  "checks": [
+    "27 source records migrated with research text, dates, tags and public sources preserved. One personal Drive document URL and historical internal registration notes were excluded from public output.",
+    "All 13 company records preserved field-for-field.",
+    "Existing Intel/Amazon report preserved.",
+    "No uploaded attachments referenced by source records. External source URLs and one ASML PDF link preserved.",
+    "Two records already lacked full original reports; pending status preserved. No financial data was refreshed."
+  ],
+  "reportIds": [
+    "note-crcl",
+    "official-crcl",
+    "note-chym",
+    "official-chym",
+    "note-niq",
+    "official-niq",
+    "note-arx",
+    "official-arx",
+    "note-mh",
+    "official-mh",
+    "note-ambq",
+    "official-ambq",
+    "note-si",
+    "official-si",
+    "note-samsung",
+    "official-samsung",
+    "note-hynix",
+    "official-hynix",
+    "note-asml",
+    "official-asml",
+    "note-tsm",
+    "official-tsm",
+    "note-acn",
+    "official-acn",
+    "pending-asml",
+    "pending-acn",
+    "report-df010bc1-7b17-4784-ad3f-2e0a9cd381a6"
+  ],
+  "excludedPrivateMetadata": {
+    "reportId": "report-df010bc1-7b17-4784-ad3f-2e0a9cd381a6",
+    "items": [
+      "Personal Google Drive document URL",
+      "Historical internal registration notes"
+    ],
+    "researchTextPreserved": true
+  }
+}

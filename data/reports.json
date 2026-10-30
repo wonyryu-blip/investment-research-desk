@@ -17,6 +17,945 @@
       "status": "정규장 반응 업데이트 예정",
       "summary": "공식 실적·가이던스, 외신 보도와 컨퍼런스콜 Q&A를 정리한 보고서입니다.",
       "body": "# 인텔·아마존 2026년 3분기 실적 브리핑\n\n작성: 2026-10-30 한국시간 오전. 분류: 해외상장 / 분기실적. 정규장 후속 반응은 아직 미발생. 공식 발표, 외신, 경영진 전망, 분석을 구분했다.\n\n## Intel (NASDAQ: INTC)\n\n공식 실적: 매출 165억 달러(+21% YoY), GAAP EPS 0.60달러, 조정 EPS 0.52달러. GAAP 매출총이익률 43.0%, 조정 44.1%. 데이터센터·AI 매출 73억 달러(+78%), 클라이언트·피지컬AI 81억 달러(-5%). Foundry 매출에는 내부거래가 포함되므로 연결 매출에 단순 합산하면 안 된다.\n\n4분기 회사 가이던스: 매출 150억~160억 달러, GAAP EPS 0.10달러, 조정 EPS 0.25달러. Reuters가 인용한 LSEG 예상은 각각 170.7억 달러, 조정 EPS 0.43달러다. 매출 전망 중간값은 시장 예상보다 약 9.2% 낮다(계산). 3분기 조정 EPS는 Reuters 기준 예상 0.40달러를 웃돌았다. 따라서 당분기 이익 부진보다 다음 분기 전망이 쟁점이다.\n\n외신: Reuters는 메모리 가격 부담으로 인한 PC 수요 약세, 생산 제약을 강조했다. 이스라엘 공장 사고의 4분기 영향은 회사 설명 기준 매출 약 3억 달러, 매출총이익률 약 2%포인트다. 시간외 하락률은 기사 내 시점별 수치가 혼재해 확정 수치로 기재하지 않았다.\n\n컨퍼런스콜 Q&A 요약(자동 전사 기반, 확정 실적과 구분):\n\n- 2027년 성장과 PC 수요? CFO는 데이터센터 성장을 기대하지만 상반기 공급 제약이 남을 수 있다고 설명. PC 시장 출하량은 2027년 약 10% 감소를 가정하며 재고조정은 최소 1분기까지 이어질 것으로 전망했다.\n- 투자 확대 속 FCF 흑자 가능성? CFO는 2027년을 투자기로 보며 FCF 흑자는 어려울 것으로 설명했다. 질문자가 제시한 CapEx 숫자는 회사 확정 가이던스로 채택하지 않았다.\n- Panther Lake 수익성? 수율 개선은 진행 중이지만 매출총이익률은 아직 회사 평균 미만이라고 답했다.\n\n분석: 서버 수요가 실제 출하·수익으로 연결되는 속도가 핵심이다. 추적 항목은 PC 재고 정상화, Intel 3/18A 수율, 서버 공급 증대, 투자 현금유출이다. 수요 강세만으로 FCF 회복이 확인된 것은 아니다.\n\n출처 및 원문 위치:\n1. [SEC 실적발표 Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/q326earningsrelease.htm): Q3 Financial Results, Business Unit Summary, Business Outlook.\n2. [Reuters, 10월 29일](https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967): 전망 대비 LSEG 예상, 공장 사고 영향.\n3. [Benzinga 콜 전사](https://www.benzinga.com/news/26/10/62725076/intel-q3-2026-earnings-call-transcript): Q&A UBS 질문 및 CFO 답변, JPMorgan의 Panther Lake 마진 질문. 자동 전사에 이름·공정 표기 오류 가능성이 있어 불명확한 표기는 생략했다.\n\n## Amazon (NASDAQ: AMZN)\n\n공식 실적: 매출 2,019억 달러(+12%), 영업이익 281억 달러(전년 174억 달러), 영업이익률 13.9%. 순이익 207억 달러, 희석 EPS 1.89달러. 전년에는 Anthropic 투자 관련 세전 이익 95억 달러가 포함돼 순이익 전년 비교에 주의가 필요하다.\n\nAWS 매출 460억 달러(+39.3%), 영업이익 178억 달러. 최근 12개월 영업현금흐름은 1,683억 달러, FCF는 -424억 달러. Prime Day의 일부 일정이 3분기에서 2분기로 이동했으며 회사는 이동 효과 제외 시 매출 성장률이 약 4%포인트 높았을 것으로 설명했다.\n\n4분기 공식 전망: 매출 2,400억~2,470억 달러, 영업이익 285억~335억 달러. 연간 현금 CapEx 약 2,200억 달러 유지. Reuters의 LSEG 매출 예상은 2,445.1억 달러로, 회사 전망 중간값 2,435억 달러는 약 0.4% 낮다(계산). 예상치가 회사 전망 범위 안에 있으므로 범위 전체가 예상을 하회한다고 해석하지 않았다.\n\n외신: Reuters는 휴일 소비 전망과 현금유출을 강조하며 시간외 약 5% 하락을 보도했다. AP도 매출·EPS 예상 미달과 신중한 연말 전망을 지적했다. 이는 기사 작성 시점의 시간외 반응이며 10월 30일 정규장 결과가 아니다.\n\n컨퍼런스콜 Q&A 요약(자동 전사 기반):\n\n- AWS 성장 지속 근거? 경영진은 AI 서비스 도입과 기존 클라우드 사용 증가, 추가 용량 공급을 제시했다. 대규모 용량의 사전 예약이 향후 수요 가시성을 높인다고 설명했다.\n- AI 투자비를 계속 늘릴 이유? CEO는 장기 매출·현금흐름 기회에 투자하겠다고 답했다. 투자 회수기간은 개선 중이라는 설명이며 구체적인 확정 회수연수는 제시하지 않았다.\n- Trainium 외부 판매와 AWS 내부 사용의 균형? 외부 판매는 빠른 매출 인식, 내부 사용은 여러 해에 걸친 매출·현금흐름 창출이라는 차이를 설명했다.\n- AI가 AWS 마진에 미치는 영향? AI 매출 비중 증가와 부품 가격은 부담이 될 수 있지만 자체 칩과 인프라 효율화로 대응한다고 설명했다.\n\n검증 메모: 자동 전사에는 4분기 영업이익 상한이 320억 달러로 표기돼 공식 발표의 335억 달러와 다르다. 본 보고서는 공식 수치를 사용했다. 장기 성장률 등 전사 내 불일치 수치는 확정 전망에서 제외했다.\n\n분석: AWS 성장·영업이익 개선은 긍정적이나 자본투자와 현금흐름 회복을 함께 봐야 한다. 추적 항목은 AWS 성장률·마진, CapEx 대비 영업현금흐름, 연말 소비 및 광고 성장 회복이다.\n\n출처 및 원문 위치:\n1. [Amazon 공식 IR 발표](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx): 실적 첫머리, Financial Guidance, Fourth Quarter 2026 Guidance.\n2. [Reuters](https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/): 시간외 반응, 현금흐름, 전망 및 LSEG 예상.\n3. [Reuters 재전재](https://www.investing.com/news/stock-market-news/amazon-projects-fourth-quarter-sales-below-estimates-4984966): AWS 예상 대비, 4분기 매출 예상.\n4. [AP](https://apnews.com/article/2de72b65d63006a7ce85eab441e2d6b7): 예상 미달 및 시간외 반응.\n5. [Benzinga 콜 전사](https://www.benzinga.com/news/26/10/62724825/amazoncom-q3-2026-earnings-call-transcript): Q&A Bank of America, Morgan Stanley, Goldman Sachs, JPMorgan, Barclays 질문.\n\n## 시장반응 후속 계획\n\n미국 정규장 10월 30일: 한국시간 22:30 개장, 10월 31일 05:00 마감. 10월 30일 23:30 전후 장중 반응 확인 작업을 설정했다. 주가·측정시각·지수 대비·거래량과 보도/애널리스트 의견을 확인하고 전망을 갱신한다. 장중 수치는 종가로 표현하지 않는다."
+    },
+    {
+      "id": "note-crcl",
+      "companyId": "crcl",
+      "title": "Circle · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n총수익·준비금 수익 USD 701m, 순이익 (GAAP) USD 48m. 기말 USDC 유통량 733억 달러.\n\n당시 분석 의견\n유통량 확대가 금리 하락에 따른 준비자산 수익률 압박을 얼마나 상쇄하는지 살펴볼 필요가 있습니다.\n\n후속 점검 항목\n금리·유통 파트너 비용·스테이블코인 규제\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://www.circle.com/pressroom/circle-reports-second-quarter-2026-results\n발표일 2026-08-05 · 당시 확인일 2026-10-21",
+      "summary": "유통량 확대가 금리 하락에 따른 준비자산 수익률 압박을 얼마나 상쇄하는지 살펴볼 필요가 있습니다.",
+      "tags": "핀테크 실적 분석",
+      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
+      "checked": "2026-10-21",
+      "tickers": [
+        "CRCL"
+      ],
+      "companies": [
+        "Circle"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-crcl"
+    },
+    {
+      "id": "official-crcl",
+      "companyId": "crcl",
+      "title": "Circle · 2026 Q2 공식 실적자료",
+      "date": "2026-08-05",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "기말 USDC 유통량 733억 달러",
+      "tags": "핀테크 실적 공시",
+      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
+      "checked": "2026-10-28",
+      "tickers": [
+        "CRCL"
+      ],
+      "companies": [
+        "Circle"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-crcl"
+    },
+    {
+      "id": "note-chym",
+      "companyId": "chym",
+      "title": "Chime · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 670m, 순이익 (GAAP) USD 28m. 활성 회원 1,040만 명 · 전년 대비 20% 증가.\n\n당시 분석 의견\n회원 증가와 회원당 수익 증가가 함께 나타났습니다. 대출·유동성 서비스 확대는 성장과 손실률을 같이 점검해야 합니다.\n\n후속 점검 항목\n소비경기·신용손실·파트너 은행 의존\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results\n발표일 2026-08-05 · 당시 확인일 2026-10-21",
+      "summary": "회원 증가와 회원당 수익 증가가 함께 나타났습니다. 대출·유동성 서비스 확대는 성장과 손실률을 같이 점검해야 합니다.",
+      "tags": "핀테크 실적 분석",
+      "url": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
+      "checked": "2026-10-21",
+      "tickers": [
+        "CHYM"
+      ],
+      "companies": [
+        "Chime"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-chym"
+    },
+    {
+      "id": "official-chym",
+      "companyId": "chym",
+      "title": "Chime · 2026 Q2 공식 실적자료",
+      "date": "2026-08-05",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "활성 회원 1,040만 명 · 전년 대비 20% 증가",
+      "tags": "핀테크 실적 공시",
+      "url": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
+      "checked": "2026-10-28",
+      "tickers": [
+        "CHYM"
+      ],
+      "companies": [
+        "Chime"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-chym"
+    },
+    {
+      "id": "note-niq",
+      "companyId": "niq",
+      "title": "NIQ · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 1,124.2m, 지배기업 귀속 순손실 (GAAP) USD -30.5m. 조정 EBITDA 2억 6,190만 달러 · 마진 23.3%.\n\n당시 분석 의견\n조정 EBITDA 개선과 GAAP 순손실이 동시에 존재합니다. 영업현금흐름과 이자 부담을 함께 확인해야 합니다.\n\n후속 점검 항목\n차입금·조정 실적과 GAAP 간 차이·고객 지출\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://investors.nielseniq.com/news/news-details/2026/NIQ-Announces-Strong-Second-Quarter-2026-Results/default.aspx\n발표일 2026-08-10 · 당시 확인일 2026-10-21",
+      "summary": "조정 EBITDA 개선과 GAAP 순손실이 동시에 존재합니다. 영업현금흐름과 이자 부담을 함께 확인해야 합니다.",
+      "tags": "데이터·분석 실적 분석",
+      "url": "https://investors.nielseniq.com/news/news-details/2026/NIQ-Announces-Strong-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-21",
+      "tickers": [
+        "NIQ"
+      ],
+      "companies": [
+        "NIQ"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-niq"
+    },
+    {
+      "id": "official-niq",
+      "companyId": "niq",
+      "title": "NIQ · 2026 Q2 공식 실적자료",
+      "date": "2026-08-10",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "조정 EBITDA 2억 6,190만 달러 · 마진 23.3%",
+      "tags": "데이터·분석 실적 공시",
+      "url": "https://investors.nielseniq.com/news/news-details/2026/NIQ-Announces-Strong-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-28",
+      "tickers": [
+        "NIQ"
+      ],
+      "companies": [
+        "NIQ"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-niq"
+    },
+    {
+      "id": "note-arx",
+      "companyId": "arx",
+      "title": "Accelerant · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 356.9m, 순이익 (GAAP) USD 80m. Exchange Written Premium 13.223억 달러.\n\n당시 분석 의견\n거래보험료는 매출과 다른 지표입니다. Thoma Bravo 인수계약 발표로 거래 종결 조건과 이후 상장 상태를 우선 확인할 필요가 있습니다.\n\n후속 점검 항목\n보험 손해율·인수거래 종결·상장 상태 변경\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Second-Quarter-2026-Results/default.aspx\n발표일 2026-08-13 · 당시 확인일 2026-10-21",
+      "summary": "거래보험료는 매출과 다른 지표입니다. Thoma Bravo 인수계약 발표로 거래 종결 조건과 이후 상장 상태를 우선 확인할 필요가 있습니다.",
+      "tags": "보험 실적 분석",
+      "url": "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-21",
+      "tickers": [
+        "ARX"
+      ],
+      "companies": [
+        "Accelerant"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-arx"
+    },
+    {
+      "id": "official-arx",
+      "companyId": "arx",
+      "title": "Accelerant · 2026 Q2 공식 실적자료",
+      "date": "2026-08-13",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "Exchange Written Premium 13.223억 달러",
+      "tags": "보험 실적 공시",
+      "url": "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-28",
+      "tickers": [
+        "ARX"
+      ],
+      "companies": [
+        "Accelerant"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-arx"
+    },
+    {
+      "id": "note-mh",
+      "companyId": "mh",
+      "title": "McGraw Hill · FY2027 Q1 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 549.9m, 순이익 (GAAP) USD 57.9m. 반복성 매출 4.256억 달러 · 총매출의 77%.\n\n당시 분석 의견\n전체 매출보다 반복성 매출이 빠르게 성장했습니다. 회계연도가 달라 FY2027 Q1은 2026년 6월 종료 분기입니다.\n\n후속 점검 항목\n학기별 계절성·교육 예산·부채 감축\n\n실적 대상기간\nFY2027 Q1 / 기간말 2026-06-30\n\n출처\nhttps://investors.mheducation.com/news/news-details/2026/McGraw-Hill-Inc--Reports-Strong-Fiscal-First-Quarter-2027-Results-Exceeding-Expectations/default.aspx\n발표일 2026-08-13 · 당시 확인일 2026-10-21",
+      "summary": "전체 매출보다 반복성 매출이 빠르게 성장했습니다. 회계연도가 달라 FY2027 Q1은 2026년 6월 종료 분기입니다.",
+      "tags": "교육 실적 분석",
+      "url": "https://investors.mheducation.com/news/news-details/2026/McGraw-Hill-Inc--Reports-Strong-Fiscal-First-Quarter-2027-Results-Exceeding-Expectations/default.aspx",
+      "checked": "2026-10-21",
+      "tickers": [
+        "MH"
+      ],
+      "companies": [
+        "McGraw Hill"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-mh"
+    },
+    {
+      "id": "official-mh",
+      "companyId": "mh",
+      "title": "McGraw Hill · FY2027 Q1 공식 실적자료",
+      "date": "2026-08-13",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "반복성 매출 4.256억 달러 · 총매출의 77%",
+      "tags": "교육 실적 공시",
+      "url": "https://investors.mheducation.com/news/news-details/2026/McGraw-Hill-Inc--Reports-Strong-Fiscal-First-Quarter-2027-Results-Exceeding-Expectations/default.aspx",
+      "checked": "2026-10-28",
+      "tickers": [
+        "MH"
+      ],
+      "companies": [
+        "McGraw Hill"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-mh"
+    },
+    {
+      "id": "note-ambq",
+      "companyId": "ambq",
+      "title": "Ambiq · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 33.901m, 순손실 (GAAP) USD -7.115m. GAAP 매출총이익률 45.0%.\n\n당시 분석 의견\n엣지 AI 수요 확대와 매출총이익률 개선이 확인되지만 GAAP 적자는 지속됩니다. 공급 제약과 고객 다변화가 다음 점검 항목입니다.\n\n후속 점검 항목\n공급 제약·고객 집중·연구개발 비용\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://ir.ambiq.com/news/news-details/2026/Ambiq-Reports-Second-Quarter-2026-Financial-Results/default.aspx\n발표일 2026-08-11 · 당시 확인일 2026-10-21",
+      "summary": "엣지 AI 수요 확대와 매출총이익률 개선이 확인되지만 GAAP 적자는 지속됩니다. 공급 제약과 고객 다변화가 다음 점검 항목입니다.",
+      "tags": "반도체 실적 분석",
+      "url": "https://ir.ambiq.com/news/news-details/2026/Ambiq-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "checked": "2026-10-21",
+      "tickers": [
+        "AMBQ"
+      ],
+      "companies": [
+        "Ambiq"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-ambq"
+    },
+    {
+      "id": "official-ambq",
+      "companyId": "ambq",
+      "title": "Ambiq · 2026 Q2 공식 실적자료",
+      "date": "2026-08-11",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "GAAP 매출총이익률 45.0%",
+      "tags": "반도체 실적 공시",
+      "url": "https://ir.ambiq.com/news/news-details/2026/Ambiq-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "checked": "2026-10-28",
+      "tickers": [
+        "AMBQ"
+      ],
+      "companies": [
+        "Ambiq"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-ambq"
+    },
+    {
+      "id": "note-si",
+      "companyId": "si",
+      "title": "Shoulder Innovations · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 17.2m, 순손실 (GAAP) USD -10.2m. 임플란트 시스템 판매 2,238개.\n\n당시 분석 의견\n매출 성장과 함께 영업손실이 확대됐습니다. 신규 의사 확보와 기존 고객 사용 확대가 비용 증가를 흡수하는지 확인할 필요가 있습니다.\n\n후속 점검 항목\n판매조직 비용·제품 채택 속도·현금 소진\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://ir.shoulderinnovations.com/news-events/news-releases/detail/47/shoulder-innovations-reports-second-quarter-2026-financial-results-and-raises-full-year-outlook\n발표일 2026-08-06 · 당시 확인일 2026-10-21",
+      "summary": "매출 성장과 함께 영업손실이 확대됐습니다. 신규 의사 확보와 기존 고객 사용 확대가 비용 증가를 흡수하는지 확인할 필요가 있습니다.",
+      "tags": "의료기기 실적 분석",
+      "url": "https://ir.shoulderinnovations.com/news-events/news-releases/detail/47/shoulder-innovations-reports-second-quarter-2026-financial-results-and-raises-full-year-outlook",
+      "checked": "2026-10-21",
+      "tickers": [
+        "SI"
+      ],
+      "companies": [
+        "Shoulder Innovations"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-si"
+    },
+    {
+      "id": "official-si",
+      "companyId": "si",
+      "title": "Shoulder Innovations · 2026 Q2 공식 실적자료",
+      "date": "2026-08-06",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "임플란트 시스템 판매 2,238개",
+      "tags": "의료기기 실적 공시",
+      "url": "https://ir.shoulderinnovations.com/news-events/news-releases/detail/47/shoulder-innovations-reports-second-quarter-2026-financial-results-and-raises-full-year-outlook",
+      "checked": "2026-10-28",
+      "tickers": [
+        "SI"
+      ],
+      "companies": [
+        "Shoulder Innovations"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-si"
+    },
+    {
+      "id": "note-samsung",
+      "companyId": "samsung",
+      "title": "삼성전자 · 2026 Q3 잠정 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 195조 원, 영업이익 (잠정) 107.4조 원. 잠정 매출 195조 원 · 영업이익 107.4조 원.\n\n당시 분석 의견\n잠정 발표는 연결 매출과 영업이익 중심입니다. 사업부별 기여와 현금흐름은 확정 실적 발표에서 별도로 확인해야 합니다.\n\n후속 점검 항목\n메모리 가격·사업부별 수익 편차·잠정치 수정\n\n실적 대상기간\n2026 Q3 잠정 / 기간말 2026-09-30\n\n출처\nhttps://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026\n발표일 2026-10-08 · 당시 확인일 2026-10-21",
+      "summary": "잠정 발표는 연결 매출과 영업이익 중심입니다. 사업부별 기여와 현금흐름은 확정 실적 발표에서 별도로 확인해야 합니다.",
+      "tags": "반도체 실적 분석",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+      "checked": "2026-10-21",
+      "tickers": [
+        "005930"
+      ],
+      "companies": [
+        "삼성전자"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-samsung"
+    },
+    {
+      "id": "official-samsung",
+      "companyId": "samsung",
+      "title": "삼성전자 · 2026 Q3 잠정 공식 실적자료",
+      "date": "2026-10-08",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "잠정 매출 195조 원 · 영업이익 107.4조 원",
+      "tags": "반도체 실적 공시",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+      "checked": "2026-10-28",
+      "tickers": [
+        "005930"
+      ],
+      "companies": [
+        "삼성전자"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-samsung"
+    },
+    {
+      "id": "note-hynix",
+      "companyId": "hynix",
+      "title": "SK하이닉스 · 2026 Q2 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 79.3187조 원, 영업이익 (회사 발표) 60.5426조 원. 영업이익률 약 76% · 회사 발표 기준.\n\n당시 분석 의견\nAI 서버용 고부가 메모리의 판매 확대가 실적을 견인했습니다. 메모리 가격과 설비투자 증가가 다음 분기 수익성에 미치는 영향을 점검합니다.\n\n후속 점검 항목\n메모리 업황·HBM 경쟁·설비투자 집행\n\n실적 대상기간\n2026 Q2 / 기간말 2026-06-30\n\n출처\nhttps://news.skhynix.com/en/q2-2026-business-results/\n발표일 2026-07-29 · 당시 확인일 2026-10-21",
+      "summary": "AI 서버용 고부가 메모리의 판매 확대가 실적을 견인했습니다. 메모리 가격과 설비투자 증가가 다음 분기 수익성에 미치는 영향을 점검합니다.",
+      "tags": "반도체 실적 분석",
+      "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+      "checked": "2026-10-21",
+      "tickers": [
+        "000660"
+      ],
+      "companies": [
+        "SK하이닉스"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-hynix"
+    },
+    {
+      "id": "official-hynix",
+      "companyId": "hynix",
+      "title": "SK하이닉스 · 2026 Q3 공식 실적자료",
+      "date": "2026-10-28",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "영업이익률 약 80% · 매출 104.6155조 원",
+      "tags": "반도체 실적 공시",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "checked": "2026-10-28",
+      "tickers": [
+        "000660"
+      ],
+      "companies": [
+        "SK하이닉스"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-hynix"
+    },
+    {
+      "id": "note-asml",
+      "companyId": "asml",
+      "title": "ASML · 2026 Q3 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 EUR 11,662m, 순이익 (US GAAP) EUR 4,960m. 매출총이익률 57.5% · 설치장비 관리 매출 €3,289m.\n\n당시 분석 의견\n장비 출하와 설치장비 서비스의 동반 성장이 관찰됩니다. 고객 설비투자와 생산능력 확대가 매출 인식으로 이어지는 속도를 점검합니다.\n\n후속 점검 항목\n고객 설비투자·수출규제·장비 인도 시점\n\n실적 대상기간\n2026 Q3 / 기간말 2026-09-30\n\n출처\nhttps://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026\n발표일 2026-10-14 · 당시 확인일 2026-10-21",
+      "summary": "장비 출하와 설치장비 서비스의 동반 성장이 관찰됩니다. 고객 설비투자와 생산능력 확대가 매출 인식으로 이어지는 속도를 점검합니다.",
+      "tags": "반도체 장비 실적 분석",
+      "url": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+      "checked": "2026-10-21",
+      "tickers": [
+        "ASML"
+      ],
+      "companies": [
+        "ASML"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-asml"
+    },
+    {
+      "id": "official-asml",
+      "companyId": "asml",
+      "title": "ASML · 2026 Q3 공식 실적자료",
+      "date": "2026-10-14",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "매출총이익률 57.5% · 설치장비 관리 매출 €3,289m",
+      "tags": "반도체 장비 실적 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/pressreleasefinancialresul.htm",
+      "checked": "2026-10-28",
+      "tickers": [
+        "ASML"
+      ],
+      "companies": [
+        "ASML"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-asml"
+    },
+    {
+      "id": "note-tsm",
+      "companyId": "tsm",
+      "title": "TSMC · 2026 Q3 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 TWD 1,494,243m, 순이익 (TIFRS) TWD 763,064m. 영업이익률 58.7% · 7nm 이하 매출 비중 79%.\n\n당시 분석 의견\n첨단 공정 수요가 실적을 견인했습니다. 원화나 달러 매출과 바로 비교하지 않고 대만달러 기준 성장률과 공정 믹스를 함께 봅니다.\n\n후속 점검 항목\n고객 집중·해외 생산비·지정학적 위험\n\n실적 대상기간\n2026 Q3 / 기간말 2026-09-30\n\n출처\nhttps://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm\n발표일 2026-10-15 · 당시 확인일 2026-10-21",
+      "summary": "첨단 공정 수요가 실적을 견인했습니다. 원화나 달러 매출과 바로 비교하지 않고 대만달러 기준 성장률과 공정 믹스를 함께 봅니다.",
+      "tags": "반도체 실적 분석",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "checked": "2026-10-21",
+      "tickers": [
+        "TSM / 2330"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-tsm"
+    },
+    {
+      "id": "official-tsm",
+      "companyId": "tsm",
+      "title": "TSMC · 2026 Q3 공식 실적자료",
+      "date": "2026-10-15",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "영업이익률 58.7% · 7nm 이하 매출 비중 79%",
+      "tags": "반도체 실적 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "checked": "2026-10-28",
+      "tickers": [
+        "TSM / 2330"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-tsm"
+    },
+    {
+      "id": "note-acn",
+      "companyId": "acn",
+      "title": "Accenture · FY2026 Q4 핵심 점검",
+      "date": "2026-10-21",
+      "type": "기존 분석 노트",
+      "body": "자료 성격\n2026-10-21 저장된 분석 노트입니다. 과거 심층보고서 전체 원문은 아닙니다. 당시의 자료와 의견을 보존했습니다.\n\n공개자료 요약\n매출 USD 18,680m, 순이익 (GAAP) USD 2,030m. GAAP 영업이익률 15.3% · 신규 수주 $22.17bn.\n\n당시 분석 의견\n신규 수주가 실제 매출로 전환되는 속도와 AI 관련 수요의 지속성을 함께 점검합니다. 회계분기는 8월에 종료됩니다.\n\n후속 점검 항목\n기업 IT 지출·수주 전환·인력 및 가격 경쟁\n\n실적 대상기간\nFY2026 Q4 / 기간말 2026-08-31\n\n출처\nhttps://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/q4fy26earnings8-kexhibit.htm\n발표일 2026-10-01 · 당시 확인일 2026-10-21",
+      "summary": "신규 수주가 실제 매출로 전환되는 속도와 AI 관련 수요의 지속성을 함께 점검합니다. 회계분기는 8월에 종료됩니다.",
+      "tags": "IT 서비스 실적 분석",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/q4fy26earnings8-kexhibit.htm",
+      "checked": "2026-10-21",
+      "tickers": [
+        "ACN"
+      ],
+      "companies": [
+        "Accenture"
+      ],
+      "category": "기존 분석 노트",
+      "status": "기존 사이트에서 이관 · 2026-10-21 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/note-acn"
+    },
+    {
+      "id": "official-acn",
+      "companyId": "acn",
+      "title": "Accenture · FY2026 Q4 공식 실적자료",
+      "date": "2026-10-01",
+      "type": "공식 자료",
+      "body": "발행처가 공개한 실적자료로 연결합니다.",
+      "summary": "GAAP 영업이익률 15.3% · 신규 수주 $22.17bn",
+      "tags": "IT 서비스 실적 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/q4fy26earnings8-kexhibit.htm",
+      "checked": "2026-10-28",
+      "tickers": [
+        "ACN"
+      ],
+      "companies": [
+        "Accenture"
+      ],
+      "category": "공식 자료",
+      "status": "기존 사이트에서 이관 · 2026-10-28 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/official-acn"
+    },
+    {
+      "id": "pending-asml",
+      "companyId": "asml",
+      "title": "ASML · 2026년 3분기 실적 및 미국 ADR 시장 반응",
+      "date": "2026-10-14",
+      "type": "원문 대기",
+      "body": "기존 목록에 있던 심층 보고서입니다. 전체 원문은 현재 연결되지 않았습니다. 보고서 등록에서 원문 파일 또는 본문을 추가해 보관할 수 있습니다.",
+      "summary": "기존 보고서 목차 보존 · 원문 파일 미확인",
+      "tags": "ASML 실적 시장 반응",
+      "pending": true,
+      "tickers": [
+        "ASML"
+      ],
+      "companies": [
+        "ASML"
+      ],
+      "category": "원문 대기",
+      "status": "원문 대기 · 기존 목차만 보존",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/pending-asml"
+    },
+    {
+      "id": "pending-acn",
+      "companyId": "acn",
+      "title": "Accenture · Investor Day 2026: AI 전략·중기 성장 목표",
+      "date": "2026-10-14",
+      "type": "원문 대기",
+      "body": "기존 목록에 있던 심층 보고서입니다. 전체 원문은 현재 연결되지 않았습니다. 보고서 등록에서 원문 파일 또는 본문을 추가해 보관할 수 있습니다.",
+      "summary": "기존 보고서 목차 보존 · 원문 파일 미확인",
+      "tags": "Accenture AI Investor Day",
+      "pending": true,
+      "tickers": [
+        "ACN"
+      ],
+      "companies": [
+        "Accenture"
+      ],
+      "category": "원문 대기",
+      "status": "원문 대기 · 기존 목차만 보존",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/pending-acn"
+    },
+    {
+      "id": "report-df010bc1-7b17-4784-ad3f-2e0a9cd381a6",
+      "companyId": "company-fd96e857-5d9d-4047-9287-3b8bcdf8fe92",
+      "title": "Alphabet 2026년 3분기 실적 분석 | Investment Research Desk",
+      "date": "2026-10-29",
+      "body": "Alphabet 2026년 3분기 실적 분석 | Investment Research Desk\n\n작성일: 2026-10-29 (KST) | NASDAQ: GOOGL / GOOG | 기준 분기: 2026 Q3\n\n[Executive Summary]\n\n알파벳은 2026년 3분기 매출 1,276억 달러(+25% YoY), 영업이익 406억 달러(+30%), 영업이익률 31.8%를 기록했다. Google Cloud가 307억 달러(+103%)로 폭증했으나 검색광고 성장률 둔화, 전사 매출의 시장 예상치 하회, 투자자산 평가손실, AI 투자에 따른 잉여현금흐름 악화가 시간외 주가 약 10% 하락을 초래했다. 2026년 10월 29일 미국 정규장 마감에 대한 평가는 별도 후속 보고서에서 확인해야 한다.\n\n[재무지표]\n\n매출 1,276억 달러(+25%); 영업이익 406억 달러(+30%); 영업이익률 31.8%; 순이익 261.7억 달러(약 -25%); GAAP 희석 EPS 2.12달러; 영업현금흐름 423억 달러; CapEx 514억 달러; FCF -91억 달러.\n\nReuters 예상 매출 1,282억 달러 대비 소폭 미달. 영업외손익 약 -82억 달러에 SpaceX 지분 평가손실이 크게 작용해 GAAP EPS 해석 시 영업성과와 구분해야 한다.\n\n[사업별 실적]\n\nGoogle Services: 매출 963억 달러(+11%); 영업이익 392억 달러; 영업이익률 40.7%.\n\nGoogle Search & other: 매출 633억 달러(+12%). CEO에 따르면 검색 질의 전년 대비 증가율은 최근 5년 중 최고이나 광고 매출 둔화가 우려다.\n\nYouTube Ads: 매출 112억 달러(+9%). YouTube Music·Premium 가입자 1.5억 명 이상(체험 포함).\n\nGoogle Cloud: 매출 307억 달러(+103%); 영업이익 111억 달러; 영업이익률 36.2%. AI 인프라·솔루션·기존 GCP 서비스와 TPU 시스템 판매의 기여. 수주잔고 5,610억 달러, 향후 24개월 내 55% 이상 매출 인식 예상. 하드웨어 시스템 판매와 반복사용 클라우드 서비스 매출을 구분해 검증해야 한다.\n\n[AI·투자·가이던스]\n\nGemini 앱 사용자 10억 명. 모델 API 처리량 분당 약 320억 토큰, 전분기 대비 약 40% 증가. Gemini 4 Argon·Carbon 발표. 2026년 CapEx 가이던스 1,950억~2,050억 달러 유지, 2027년 유의미한 추가 증가 예상. 외부 컴퓨팅 용량 사용 확대에 따라 단기 Cloud 마진 압박 가능. TPU 시스템 판매 확대로 재고 및 선제투자에 현금 소요.\n\n[컨퍼런스콜 주요 Q&A — 질문의 취지와 회사 답변 요약]\n\n1. JPMorgan Doug Anmuth: 검색 질의는 크게 증가하는데 검색광고 매출 성장률이 둔화되는 원인과 AI 검색의 광고 수익화 문제를 질문. 회사는 AI가 검색 이용량을 늘리고 있고 사용자 경험 개선 후 수익화를 추진한다는 기조를 강조했다. 질의 증가율과 질의당 수익화의 괴리가 향후 확인 포인트.\n\n2. Morgan Stanley Brian Nowak: AI 에이전트의 대중 확산을 가로막는 기술적 요인을 질문. CEO는 Gemini 4 모델 경량화, 지연시간과 컴퓨팅 효율, 보안 실행 환경, 연결 생태계 등 전체 스택이 필요하며 기업용을 우선 출시했다고 설명했다.\n\n3. Barclays Ross Sandler: TPU 시스템 판매 매출 인식과 Cloud 영업이익률에 미치는 효과를 질문. 회사는 TPU 단품보다 전체 시스템 제공을 강조하며, 제품 인도·청구와 수익 인식 사이의 시차 및 사전 재고 구축 필요성을 설명했다. 구체적인 시스템별 마진 공개 여부는 추가 확인 필요.\n\n4. Bank of America Justin Post: 에이전트 경험이 검색 트래픽을 잠식할지, 오히려 수익화를 확장할 수 있는지 및 TPU 사업성에 대해 질문. 경영진은 에이전트 기능을 기존 제품의 추가 기회로 바라본다는 입장을 보였다.\n\n[투자 관점: 핵심 논점]\n\n긍정: Cloud 수요 폭증, TPU 생태계 확대, AI 모델 사용량과 Gemini 보급 확산, 영업이익 성장.\n\n위험: 검색 AI Mode 수익화 불확실성, TPU 시스템 판매의 반복성·마진 구조, 2027년 CapEx 추가 증가, 감가상각·전력비 증가, -91억 달러 분기 FCF.\n\n모니터링: 2026 Q4 Search 광고 성장률 및 AI Mode 광고 수익화, TPU 장비매출 세부내역, Cloud 외부 용량 비용, Cloud 수주잔고 전환율, 2027 CapEx·FCF 전망.\n\n[외신 초기 반응 — 미국 현지 10월 28일 시간외 기준]\n\nReuters: 검색광고 예상 하회와 현금 유출, 막대한 CapEx를 중심으로 부정적 해석; Cloud 강세를 긍정.\n\nAssociated Press: 순이익·EPS 예상 하회, 10% 넘는 시간외 하락 및 AI 투자의 재무부담 강조.\n\nThe Verge: AI 기능이 검색 질의 증가를 이끌고 있다는 긍정적인 사업적 측면 강조.\n\n정규장 주가 및 후속 외신 분석은 10월 29일 미국장 마감 이후 업데이트 대상.\n\n[원문·출처]\n\nAlphabet 공식 CEO 발언: https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/\n\nAlphabet 3Q26 실적 공시 재게시: https://www.marketscreener.com/news/alphabet-2026-q3-earnings-press-release-ce785cd3d981f42c\n\nAlphabet 3Q26 컨퍼런스콜 전문: https://www.marketbeat.com/earnings/reports/2026-10-28-alphabet-inc-stock/\n\nReuters: https://www.reuters.com/business/alphabets-google-cloud-unit-beats-quarterly-revenue-estimates-steady-ai-demand-2026-10-28/\n\nAP: https://apnews.com/article/1acf6aff00d4dc084c5243d613307388\n\nThe Verge: https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026\n\n[Research Desk 등록 정보]\n기업명: Alphabet (알파벳)\n티커: NASDAQ GOOGL / GOOG\n분류: 해외상장 / 2026 Q3 분기실적 분석\n보고서 작성일: 2026-10-29 (KST)\n자료 기준일: 2026-10-29 · 실적 대상기간: 2026 Q3\n이 보고서는 원문 저장본이며, 미국 10월 29일 정규장 마감 후 평가는 별도 후속 보고서 대상입니다.",
+      "summary": "원문 기준: Google Cloud 매출 +103%와 TPU·Gemini 확산은 성장 동력입니다. 검색광고 성장 둔화, AI 설비투자 부담과 분기 FCF -91억 달러가 핵심 위험이며, Cloud 수주잔고의 매출 전환과 2027년 CapEx·FCF를 추적합니다.",
+      "tags": "Alphabet 알파벳 GOOGL GOOG 해외상장 2026 Q3 분기실적 컨퍼런스콜 검색광고 Google Cloud TPU Gemini CapEx FCF",
+      "checked": "2026-10-29",
+      "type": "등록 보고서",
+      "custom": true,
+      "tickers": [
+        "GOOGL / GOOG"
+      ],
+      "companies": [
+        "Alphabet (알파벳)"
+      ],
+      "category": "등록 보고서",
+      "status": "기존 사이트에서 이관 · 2026-10-29 기준",
+      "migratedAt": "2026-10-30",
+      "sourceSite": "https://research-library-archive.wony-ryu.chatgpt.site/#/report/report-df010bc1-7b17-4784-ad3f-2e0a9cd381a6"
+    }
+  ],
+  "companies": [
+    {
+      "id": "crcl",
+      "name": "Circle",
+      "alias": "서클",
+      "ticker": "CRCL",
+      "cat": "ipo",
+      "sector": "핀테크",
+      "desc": "USDC 스테이블코인과 디지털 결제 인프라. 준비자산 수익과 네트워크 확장이 핵심 변수입니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-05",
+      "currency": "USD",
+      "revenue": 701,
+      "revLabel": "총수익·준비금 수익",
+      "profit": 48,
+      "profitLabel": "계속영업 순이익 (GAAP)",
+      "growth": 7,
+      "kpi": "기말 USDC 유통량 733억 달러",
+      "insight": "유통량 확대가 금리 하락에 따른 준비자산 수익률 압박을 얼마나 상쇄하는지 살펴볼 필요가 있습니다.",
+      "risk": "금리·유통 파트너 비용·스테이블코인 규제",
+      "url": "https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results",
+      "checked": "2026-10-28",
+      "listed": "2025-06-05",
+      "exchange": "NYSE",
+      "ipoPrice": 31,
+      "ipoShares": 34000000,
+      "ipoSource": "https://www.circle.com/pressroom/circle-announces-pricing-of-upsized-initial-public-offering",
+      "ipoChecked": "2026-10-21",
+      "caveat": "총수익에 준비금 수익을 포함합니다. 일반 소프트웨어 매출과 직접 비교에 주의하세요. 수치는 보도자료 요약의 백만 달러 반올림 값입니다."
+    },
+    {
+      "id": "chym",
+      "name": "Chime",
+      "alias": "차임",
+      "ticker": "CHYM",
+      "cat": "ipo",
+      "sector": "핀테크",
+      "desc": "미국 소비자 대상 금융 플랫폼. 결제와 유동성 서비스를 통해 회원당 수익을 확대합니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-05",
+      "currency": "USD",
+      "revenue": 670,
+      "profit": 28,
+      "profitLabel": "순이익 (GAAP)",
+      "growth": 27,
+      "kpi": "활성 회원 1,040만 명 · 전년 대비 20% 증가",
+      "insight": "회원 증가와 회원당 수익 증가가 함께 나타났습니다. 대출·유동성 서비스 확대는 성장과 손실률을 같이 점검해야 합니다.",
+      "risk": "소비경기·신용손실·파트너 은행 의존",
+      "url": "https://investors.chime.com/news-releases/news-release-details/chime-reports-second-quarter-2026-financial-results",
+      "checked": "2026-10-28",
+      "listed": "2025-06-12",
+      "exchange": "Nasdaq",
+      "ipoPrice": 27,
+      "ipoShares": 32000000,
+      "ipoSource": "https://www.chime.com/newsroom/chime-announces-pricing-of-initial-public-offering/",
+      "ipoChecked": "2026-10-21",
+      "caveat": "Chime 자체는 은행이 아닙니다. Stride 인수는 계약 단계이며, 4–6월 실적에 인수 효과가 반영된 것으로 보지 않습니다. 수치는 공시 요약의 백만 달러 반올림 값입니다."
+    },
+    {
+      "id": "niq",
+      "name": "NIQ",
+      "alias": "닐슨아이큐",
+      "ticker": "NIQ",
+      "cat": "ipo",
+      "sector": "데이터·분석",
+      "desc": "소비재·유통 시장의 구매 데이터와 소비자 인사이트를 제공하는 글로벌 분석 기업입니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-10",
+      "currency": "USD",
+      "revenue": 1124.2,
+      "profit": -30.5,
+      "profitLabel": "지배기업 귀속 순손실 (GAAP)",
+      "growth": 8,
+      "kpi": "조정 EBITDA 2억 6,190만 달러 · 마진 23.3%",
+      "insight": "조정 EBITDA 개선과 GAAP 순손실이 동시에 존재합니다. 영업현금흐름과 이자 부담을 함께 확인해야 합니다.",
+      "risk": "차입금·조정 실적과 GAAP 간 차이·고객 지출",
+      "url": "https://investors.nielseniq.com/news/news-details/2026/NIQ-Announces-Strong-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-28",
+      "listed": "2025-07-23",
+      "exchange": "NYSE",
+      "ipoPrice": 21,
+      "ipoShares": 50000000,
+      "ipoSource": "https://nielseniq.com/global/en/news-center/2025/niq-announces-pricing-of-initial-public-offering/",
+      "ipoChecked": "2026-10-21",
+      "caveat": "매출 성장률 8.0%는 보고 기준입니다. 유기적 고정환율(OCC) 성장률은 5.8%입니다. 순손익은 NIQ 귀속 기준입니다."
+    },
+    {
+      "id": "arx",
+      "name": "Accelerant",
+      "alias": "액셀러런트",
+      "ticker": "ARX",
+      "cat": "ipo",
+      "sector": "보험",
+      "desc": "특종보험 인수 주체와 리스크 자본을 연결하는 데이터 기반 보험 거래 플랫폼입니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-13",
+      "currency": "USD",
+      "revenue": 356.9,
+      "profit": 80,
+      "profitLabel": "순이익 (GAAP)",
+      "growth": 62.9,
+      "kpi": "Exchange Written Premium 13.223억 달러",
+      "status": "비상장 전환 계약 발표 · 완료 여부 미확인",
+      "insight": "거래보험료는 매출과 다른 지표입니다. Thoma Bravo 인수계약 발표로 거래 종결 조건과 이후 상장 상태를 우선 확인할 필요가 있습니다.",
+      "risk": "보험 손해율·인수거래 종결·상장 상태 변경",
+      "url": "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Second-Quarter-2026-Results/default.aspx",
+      "checked": "2026-10-28",
+      "listed": "2025-07-24",
+      "exchange": "NYSE",
+      "ipoPrice": 21,
+      "ipoShares": 34461152,
+      "ipoSource": "https://investor.accelerant.ai/news/news-details/2025/Accelerant-Holdings-Announces-Pricing-of-Upsized-Initial-Public-Offering/default.aspx",
+      "ipoChecked": "2026-10-21",
+      "caveat": "총수익 $356.9M에는 투자손익 $53.0M이 포함됩니다. 영업수익(비GAAP)은 $303.9M이며 회사의 조정 EBITDA 마진은 이 영업수익이 분모입니다. 매출 성장률은 공시 수치로 계산했습니다.",
+      "revLabel": "총수익 (투자손익 포함)"
+    },
+    {
+      "id": "mh",
+      "name": "McGraw Hill",
+      "alias": "맥그로힐",
+      "ticker": "MH",
+      "cat": "ipo",
+      "sector": "교육",
+      "desc": "K-12·고등교육·전문학습 콘텐츠와 디지털 학습 솔루션을 제공합니다.",
+      "period": "FY2027 Q1",
+      "end": "2026-06-30",
+      "date": "2026-08-13",
+      "currency": "USD",
+      "revenue": 549.9,
+      "profit": 57.9,
+      "profitLabel": "순이익 (GAAP)",
+      "growth": 2.6,
+      "kpi": "반복성 매출 4.256억 달러 · 총매출의 77%",
+      "insight": "전체 매출보다 반복성 매출이 빠르게 성장했습니다. 회계연도가 달라 FY2027 Q1은 2026년 6월 종료 분기입니다.",
+      "risk": "학기별 계절성·교육 예산·부채 감축",
+      "url": "https://investors.mheducation.com/news/news-details/2026/McGraw-Hill-Inc--Reports-Strong-Fiscal-First-Quarter-2027-Results-Exceeding-Expectations/default.aspx",
+      "checked": "2026-10-28",
+      "listed": "2025-07-24",
+      "exchange": "NYSE",
+      "ipoPrice": 17,
+      "ipoShares": 24390000,
+      "ipoSource": "https://www.mheducation.com/about-us/news-insights/press-releases/mcgraw-hill-announces-pricing-of-its-initial-public-offering.html",
+      "ipoChecked": "2026-10-21",
+      "caveat": "3월 결산법인입니다. FY2027 Q1은 다른 기업의 2026 Q2와 같은 4–6월입니다. 반복 발생 매출은 회사 정의이며 계약상 ARR과 다릅니다."
+    },
+    {
+      "id": "ambq",
+      "name": "Ambiq",
+      "alias": "앰빅",
+      "ticker": "AMBQ",
+      "cat": "ipo",
+      "sector": "반도체",
+      "desc": "웨어러블·엣지 AI 기기용 초저전력 반도체를 설계하는 기업입니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-11",
+      "currency": "USD",
+      "revenue": 33.901,
+      "profit": -7.115,
+      "profitLabel": "순손실 (GAAP)",
+      "growth": 89.7,
+      "kpi": "GAAP 매출총이익률 45.0%",
+      "insight": "엣지 AI 수요 확대와 매출총이익률 개선이 확인되지만 GAAP 적자는 지속됩니다. 공급 제약과 고객 다변화가 다음 점검 항목입니다.",
+      "risk": "공급 제약·고객 집중·연구개발 비용",
+      "url": "https://ir.ambiq.com/news/news-details/2026/Ambiq-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "checked": "2026-10-28",
+      "listed": "2025-07-30",
+      "exchange": "NYSE",
+      "ipoPrice": 24,
+      "ipoShares": 4000000,
+      "ipoSource": "https://ambiq.com/news/ambiq-announces-pricing-of-initial-public-offering/",
+      "ipoChecked": "2026-10-21",
+      "caveat": "조정 EBITDA는 선택한 실적 자료에 제시되지 않아 비워 두었습니다. 비GAAP 순손실을 EBITDA로 대체하지 않았습니다. 2026년 1월·6월 후속 공모는 IPO 금액에서 제외합니다."
+    },
+    {
+      "id": "si",
+      "name": "Shoulder Innovations",
+      "alias": "숄더 이노베이션스",
+      "ticker": "SI",
+      "cat": "ipo",
+      "sector": "의료기기",
+      "desc": "어깨 관절 수술용 임플란트 시스템을 중심으로 수술 시장을 공략합니다.",
+      "period": "2026 Q2",
+      "end": "2026-06-30",
+      "date": "2026-08-06",
+      "currency": "USD",
+      "revenue": 17.2,
+      "profit": -10.2,
+      "profitLabel": "순손실 (GAAP)",
+      "growth": 56,
+      "kpi": "임플란트 시스템 판매 2,238개",
+      "insight": "매출 성장과 함께 영업손실이 확대됐습니다. 신규 의사 확보와 기존 고객 사용 확대가 비용 증가를 흡수하는지 확인할 필요가 있습니다.",
+      "risk": "판매조직 비용·제품 채택 속도·현금 소진",
+      "url": "https://ir.shoulderinnovations.com/news-events/news-releases/detail/47/shoulder-innovations-reports-second-quarter-2026-financial-results-and-raises-full-year-outlook",
+      "checked": "2026-10-28",
+      "listed": "2025-07-31",
+      "exchange": "NYSE",
+      "ipoPrice": 15,
+      "ipoShares": 5000000,
+      "ipoSource": "https://ir.shoulderinnovations.com/news-events/news-releases/detail/26/shoulder-innovations-announces-pricing-of-initial-public-offering",
+      "ipoChecked": "2026-10-21",
+      "caveat": "GAAP 매출총이익률 78.3%에도 영업손실은 $10.0M입니다. 조정 EBITDA에는 전년 공정가치 평가 비용 영향이 있으므로 원문 조정표를 함께 확인하세요."
+    },
+    {
+      "id": "samsung",
+      "name": "삼성전자",
+      "alias": "Samsung Electronics",
+      "ticker": "005930",
+      "cat": "kr",
+      "sector": "반도체",
+      "desc": "메모리·파운드리와 모바일·가전 사업을 영위하는 종합 전자 기업입니다.",
+      "period": "2026 Q3 잠정",
+      "end": "2026-09-30",
+      "date": "2026-10-08",
+      "currency": "KRW",
+      "revenue": 195000000,
+      "profit": 107400000,
+      "profitLabel": "영업이익 (잠정)",
+      "growth": null,
+      "kpi": "잠정 매출 195조 원 · 영업이익 107.4조 원",
+      "status": "잠정 실적 · 확정 실적과 구분",
+      "insight": "잠정 발표는 연결 매출과 영업이익 중심입니다. 사업부별 기여와 현금흐름은 확정 실적 발표에서 별도로 확인해야 합니다.",
+      "risk": "메모리 가격·사업부별 수익 편차·잠정치 수정",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "hynix",
+      "name": "SK하이닉스",
+      "alias": "SK hynix",
+      "ticker": "000660",
+      "cat": "kr",
+      "sector": "반도체",
+      "desc": "DRAM·NAND와 AI 서버용 HBM을 공급하는 메모리 반도체 기업입니다.",
+      "period": "2026 Q3",
+      "end": "2026-09-30",
+      "date": "2026-10-28",
+      "currency": "KRW",
+      "revenue": 104615500,
+      "profit": 83333800,
+      "profitLabel": "영업이익 (회사 발표)",
+      "growth": 328,
+      "kpi": "영업이익률 약 80% · 매출 104.6155조 원",
+      "insight": "HBM4와 서버용 메모리 확대가 실적을 견인했습니다. 장기공급계약의 가격 조건과 설비투자 확대 이후 현금흐름을 점검합니다.",
+      "risk": "메모리 업황·HBM 경쟁·설비투자 집행",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "checked": "2026-10-28",
+      "status": "회사 발표 잠정 수치 · 외부 검토 전"
+    },
+    {
+      "id": "asml",
+      "name": "ASML",
+      "alias": "에이에스엠엘",
+      "ticker": "ASML",
+      "cat": "global",
+      "sector": "반도체 장비",
+      "desc": "첨단 반도체 제조에 필요한 EUV·DUV 노광장비와 설치장비 관리 서비스를 제공합니다.",
+      "period": "2026 Q3",
+      "end": "2026-09-27",
+      "date": "2026-10-14",
+      "currency": "EUR",
+      "revenue": 11662,
+      "profit": 4960,
+      "profitLabel": "순이익 (US GAAP)",
+      "growth": null,
+      "kpi": "매출총이익률 57.5% · 설치장비 관리 매출 €3,289m",
+      "insight": "장비 출하와 설치장비 서비스의 동반 성장이 관찰됩니다. 고객 설비투자와 생산능력 확대가 매출 인식으로 이어지는 속도를 점검합니다.",
+      "risk": "고객 설비투자·수출규제·장비 인도 시점",
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/pressreleasefinancialresul.htm",
+      "pdf": "https://investor.asml.com/static-files/44d4bee1-b2f9-41b7-b3f8-1bf28f993fe6",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "tsm",
+      "name": "TSMC",
+      "alias": "대만반도체",
+      "ticker": "TSM / 2330",
+      "cat": "global",
+      "sector": "반도체",
+      "desc": "고객이 설계한 반도체를 생산하는 글로벌 파운드리 기업입니다.",
+      "period": "2026 Q3",
+      "end": "2026-09-30",
+      "date": "2026-10-15",
+      "currency": "TWD",
+      "revenue": 1494243,
+      "profit": 763064,
+      "profitLabel": "순이익 (TIFRS)",
+      "growth": 50.9,
+      "kpi": "영업이익률 58.7% · 7nm 이하 매출 비중 79%",
+      "insight": "첨단 공정 수요가 실적을 견인했습니다. 원화나 달러 매출과 바로 비교하지 않고 대만달러 기준 성장률과 공정 믹스를 함께 봅니다.",
+      "risk": "고객 집중·해외 생산비·지정학적 위험",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "acn",
+      "name": "Accenture",
+      "alias": "액센츄어",
+      "ticker": "ACN",
+      "cat": "global",
+      "sector": "IT 서비스",
+      "desc": "기업의 디지털·AI 전환을 지원하는 컨설팅 및 매니지드 서비스 기업입니다.",
+      "period": "FY2026 Q4",
+      "end": "2026-08-31",
+      "date": "2026-10-01",
+      "currency": "USD",
+      "revenue": 18680,
+      "profit": 2030,
+      "profitLabel": "순이익 (GAAP)",
+      "growth": 6,
+      "kpi": "GAAP 영업이익률 15.3% · 신규 수주 $22.17bn",
+      "insight": "신규 수주가 실제 매출로 전환되는 속도와 AI 관련 수요의 지속성을 함께 점검합니다. 회계분기는 8월에 종료됩니다.",
+      "risk": "기업 IT 지출·수주 전환·인력 및 가격 경쟁",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/q4fy26earnings8-kexhibit.htm",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "company-fd96e857-5d9d-4047-9287-3b8bcdf8fe92",
+      "name": "Alphabet (알파벳)",
+      "ticker": "GOOGL / GOOG",
+      "cat": "global",
+      "sector": "인터넷·AI·클라우드",
+      "desc": "Google Search·YouTube 광고, Google Cloud·TPU와 Gemini AI 생태계를 운영하는 기업입니다.",
+      "listed": "",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "checked": "2026-10-29",
+      "custom": true
+    },
+    {
+      "id": "intc",
+      "name": "인텔 Intel",
+      "ticker": "INTC",
+      "cat": "global",
+      "checked": "2026-10-30"
+    },
+    {
+      "id": "amzn",
+      "name": "아마존 Amazon",
+      "ticker": "AMZN",
+      "cat": "global",
+      "checked": "2026-10-30"
     }
   ]
 }
