@@ -9,3 +9,7 @@ When the user requests research saved to this desk, use the connected GitHub rep
 5. Verify JSON parses, ids are unique, ticker/company lengths match, Markdown bodies match files, and source links use HTTP(S). Verify GitHub Pages publication; report separately if saved but deployment is pending. Return the report link https://wonyryu-blip.github.io/investment-research-desk/#report/<id> and commit link.
 
 Public browsing needs no login. Writes require the user's GitHub connector authorization. New ChatGPT conversations must be given this repo or desk URL so the workflow can be located. Never claim an automatic background or permanent account-wide integration exists without verifying it.
+
+## Migrated archive
+
+Keep companies metadata in data/reports.json and archive snapshots intact. Preserve all fields, historical dates, classification (ipo/kr/global), report type/category and pending flags. Do not count pending records as available reports. Financial values in company profiles use millions of the stated currency; unknown values must remain unknown. External official materials remain links, not locally stored full reports. Do not restore the personal Drive URL or internal registration notes excluded by publication review. Add newly researched company profiles when registering future reports, preserving existing company IDs.
