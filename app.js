@@ -5,7 +5,24 @@ const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!=null)n.te
 const marketLabel={ipo:'IPO 기업',kr:'국내상장',global:'해외상장'};
 const safeUrl=url=>{try{const u=new URL(url);return ['http:','https:'].includes(u.protocol)?u.href:null}catch{return null}};
 function link(text,url){const a=el('a',text);const safe=safeUrl(url);if(safe){a.href=safe;a.target='_blank';a.rel='noopener'}return a}
-function markdown(text){const root=document.createDocumentFragment();for(const line of text.split('\n')){if(!line.trim())continue;const h=line.match(/^(#{1,3}) (.*)/);const n=el(h?'h'+h[1].length:'p',h?h[2]:null);if(!h){let last=0;for(const m of line.matchAll(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|(https?:\/\/[^\s<>]+)/g)){n.append(document.createTextNode(line.slice(last,m.index)));n.append(link(m[1]||m[3],m[2]||m[3]));last=m.index+m[0].length}n.append(document.createTextNode(line.slice(last)))}root.append(n)}return root}
+function inline(n,text){let last=0;const re=/\*\*([^*]+)\*\*|\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|(https?:\/\/[^\s<>]+)/g;for(const m of text.matchAll(re)){n.append(document.createTextNode(text.slice(last,m.index)));n.append(m[1]?el('strong',m[1]):link(m[2]||m[4],m[3]||m[4]));last=m.index+m[0].length}n.append(document.createTextNode(text.slice(last)));return n}
+function markdown(text){
+ const root=document.createDocumentFragment(),lines=text.split('\n');
+ const cells=line=>line.trim().replace(/^\|/,'').replace(/\|$/,'').split('|').map(s=>s.trim());
+ const separator=line=>/^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(line)&&cells(line).every(s=>/^:?-{3,}:?$/.test(s));
+ for(let i=0;i<lines.length;i++){
+  const line=lines[i];if(!line.trim())continue;
+  if(line.trim().startsWith('|')&&i+1<lines.length&&separator(lines[i+1])){
+   const headers=cells(line),align=cells(lines[i+1]),wrap=el('div',null,'table-wrap'),table=el('table'),head=el('thead'),tr=el('tr'),body=el('tbody');
+   wrap.tabIndex=0;wrap.setAttribute('role','region');wrap.setAttribute('aria-label','보고서 표 · 가로 스크롤');
+   headers.forEach((s,j)=>{const th=inline(el('th'),s);th.scope='col';if(align[j]?.endsWith(':'))th.className='numeric';tr.append(th)});head.append(tr);i+=2;
+   for(;i<lines.length&&lines[i].trim().startsWith('|');i++){const row=el('tr'),values=cells(lines[i]);headers.forEach((_,j)=>{const td=inline(el('td'),values[j]||'');if(align[j]?.endsWith(':'))td.className='numeric';row.append(td)});body.append(row)}i--;table.append(head,body);wrap.append(table);root.append(wrap);continue;
+  }
+  const h=line.match(/^(#{1,3}) (.*)/);if(h){root.append(inline(el('h'+h[1].length),h[2]));continue}
+  if(/^(?:- |• )/.test(line)){const ul=el('ul');for(;i<lines.length&&/^(?:- |• )/.test(lines[i]);i++)ul.append(inline(el('li'),lines[i].slice(2)));i--;root.append(ul);continue}
+  root.append(inline(el('p'),line));
+ }return root
+}
 function currentCompanies(){return db.companies.filter(c=>!$('market').value||c.cat===$('market').value)}
 function sidebar(){const root=$('companies');root.replaceChildren(el('h2','관심 기업'));for(const c of [{ticker:'',name:'전체 리서치'},...currentCompanies()]){const b=el('button',c.name,'company');b.type='button';b.dataset.ticker=c.ticker;if(c.ticker)b.append(el('small',c.ticker));b.addEventListener('click',()=>{selected=c.ticker;render()});root.append(b)}}
 function profile(){const c=db.companies.find(c=>c.ticker===selected),root=$('profile');root.hidden=!c;root.replaceChildren();if(!c)return;root.append(el('h2',c.name),el('span',c.ticker+' · '+(marketLabel[c.cat]||''),'tag'));if(c.desc)root.append(el('p',c.desc));if(c.insight)root.append(el('p',c.insight));const details=el('details'),dl=el('dl');details.append(el('summary','기업 정보 · 재무 지표 · 출처 보기'));
