@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-05",
   "reports": [
+    {
+      "id": "qcom-fy2026q4-20261105",
+      "companyId": "qcom",
+      "title": "퀄컴 FY2026 Q4 실적·컨퍼런스콜 및 시장반응",
+      "date": "2026-11-05",
+      "tickers": [
+        "QCOM"
+      ],
+      "companies": [
+        "퀄컴 Qualcomm"
+      ],
+      "category": "분기실적",
+      "market": "global",
+      "status": "11/4 미국 발표 · 시간외 반응 · 공식 실적·Q&A 확인",
+      "summary": "휴대폰 매출 -26%, 자동차 +89%. 데이터센터 확대 목표와 QCT 수익성 부담을 구분하고, 가이던스·컨퍼런스콜·한국시장 연결점을 점검합니다.",
+      "body": "# 퀄컴 FY2026 Q4 실적·컨퍼런스콜 분석\n\n2026.11.05 작성 · NASDAQ: QCOM · 해외상장기업\n발표: 미국 2026.11.04 장 마감 후 · 컨퍼런스콜: 한국시간 11.05 06:45\n대상: 2026.09.27 종료 회계분기 및 FY2026 연간. 달력연도 4분기와 다릅니다.\n\n## 핵심 판단\n\n**휴대폰 매출 감소 속에 자동차가 성장했고, 다음 관문은 데이터센터 매출의 실제 확대와 수익성입니다.**\n현재 이익과 미래 성장 목표를 분리해 평가합니다. 매출 증가만으로 투자 논리가 완성되지는 않으며, 고객 집중도·원가 전가·사업 믹스를 함께 추적해야 합니다.\n\n## 주요 실적\n\n단위: 백만 달러, EPS는 달러. 전년 대비 회사 공시 기준. [S1, PDF 1~2쪽]\n\n| 항목 | FY26 Q4 | 전년 대비 |\n| --- | ---: | ---: |\n| GAAP 매출 | 10,322 | -8% |\n| 조정 매출 | 10,442 | -7% |\n| GAAP EPS | 1.17 | 전년 -2.89 |\n| 조정 EPS | 2.17 | -28% |\n| QCT 매출 / EBT 마진 | 9,015 / 24% | -8% / -5%p |\n| 휴대폰 | 5,137 | -26% |\n| 자동차 | 1,990 | +89% |\n| IoT | 1,888 | +4% |\n| QTL 매출 / EBT 마진 | 1,304 / 70% | -7% / -2%p |\n\nQCT는 반도체, QTL은 특허 라이선스 사업입니다. EBT는 세전이익으로 영업이익과 구분합니다. 자동차의 ‘20억 달러’ 표현은 반올림이며 정확한 공시액은 19.90억 달러입니다.\n\n| FY2026 연간 | 실적 |\n| --- | ---: |\n| GAAP 매출 | 43,120 (-3%) |\n| GAAP / 조정 EPS | 12.70 / 10.54 |\n| 자사주매입 / 배당 | 7,817 / 3,854 |\n\n연간 GAAP에는 평가충당금 환입에 따른 57억 달러 세금효익이 포함됩니다. GAAP EPS 증가를 본업 성장으로 해석하지 않습니다. [S1, 1~2쪽]\n\n## 다음 분기 가이던스\n\nFY2027 Q1 회사 전망이며 확정 실적이 아닙니다. [S1, 3쪽]\n\n| 항목 | 전망 |\n| --- | ---: |\n| 매출 | 10,400~11,200 |\n| 조정 EPS | 2.15~2.35 |\n| QCT 매출 | 9,000~9,600 |\n| QTL 매출 | 1,300~1,500 |\n\n## 컨퍼런스콜 핵심 질의응답\n\n아래는 경영진 답변의 요약입니다. 제3자 제공 녹취록을 확인했으며 음성 대조는 하지 않았습니다. [S2, 해당 질문자 구간]\n\n| 질문자·쟁점 | 경영진 답변 요지 |\n| --- | --- |\n| JPMorgan · 데이터센터 목표의 실현 가능성 | FY27 50억 달러, Q1 6.5억 달러 초과, 연말 연환산 70억 달러 목표. 대부분 두 하이퍼스케일러에서 발생하며 추가 상향은 공급이 제약할 수 있음 |\n| Bernstein · 가격 인상 전 선수요인가 | 유통재고가 낮고, 가격 인상이 신규 플랫폼 중심이라 선수요 영향은 제한적이라는 설명 |\n| Bernstein · 삼성 점유율 | 향후 Galaxy 사업 계획의 기준을 70% 이상으로 설명. 확정 출하 점유율과 구분 |\n| Melius · 자동차 성장의 지속성 | 수주가 매출로 전환되고 차량당 반도체 탑재가치가 늘어난 영향이라고 답변 |\n| Melius · QCT 이익률 하락 | 데이터센터를 QCT로 편입하는 효과가 약 -3%p. 연결 실적은 변하지 않으며 장기 30% 목표 유지 |\n| Morgan Stanley · 라이선스 갱신 | Apple·Huawei·Transsion 갱신 후 QTL 매출 수준 유지. 세부 계약조건 비공개 |\n\n준비발언에서는 Q1 QCT EBT 마진 20~22%, FY27 비휴대폰 매출 성장 60% 초과를 제시했습니다. 원가 상승을 반영한 가격 인상의 완전한 효과는 FY27 하반기에 기대한다고 설명했습니다. [S2, CFO 준비발언]\n\n**해석:** 사업부 변경에 따른 마진 하락과 실제 원가 악화를 혼동하면 안 됩니다. 반대로 재분류 효과를 제거했다고 모든 수익성 부담이 해소되는 것도 아닙니다.\n\n## 시장 예상과 발표 직후 반응\n\n컨센서스는 집계기관·매출 정의가 달라 하나로 합치지 않았습니다.\n\n| 출처 | 이번 분기 비교 | 다음 분기 비교 |\n| --- | --- | --- |\n| Yahoo Finance [S3] | GAAP 매출 103.2억 vs 예상 101.2억, 조정 EPS 2.17 vs 2.16 | 매출 중간값 108억 vs 예상 106억, EPS 중간값 2.25 vs 예상 2.32 |\n| Investing.com [S4] | 조정 매출 약 104.4억 vs 예상 101.4억, EPS 2.17로 부합 | EPS 중간값 2.25 vs 예상 2.27 |\n\nYahoo는 매출 호조에도 EPS 전망이 기대에 못 미쳤다고 설명했습니다. Investing.com도 시간외 약 7% 하락을 보도했습니다. GAAP 매출과 조정 매출을 섞어 서프라이즈율을 계산하지 않습니다.\n\n[S2] 시세 표시 기준 11/4 정규장 종가 173.19달러(+5.33%), 같은 날 19:59 EST 시간외 160.16달러(-7.52%, 정규장 종가 대비). **정규장 상승은 실적발표 이전**, 시간외 하락은 발표 이후입니다. 11/5 정규장 반응은 이 보고서에 반영하지 않았습니다.\n\n## 투자 논리와 한국시장 연결\n\n다음은 자료에 근거한 분석이며 회사의 확정 전망이 아닙니다.\n\n| 관점 | 판단 | 확인할 증거 |\n| --- | --- | --- |\n| 성장의 질 | 자동차·서버가 휴대폰 의존을 낮출 가능성 | 부문별 매출뿐 아니라 이익 기여 |\n| 실행 위험 | 데이터센터 초기 매출이 소수 고객에 집중 | 분기 매출 인식, 공급 확보, 고객 확대 |\n| 스마트폰 | Android 회복과 Apple 모뎀 이탈을 분리해야 함 | 고객별 매출 변화와 재고 |\n| 국내 메모리 | 부품 가격 강세가 완제품 수요를 억누를 수 있음 | 모바일 수요와 서버 수요의 차이 |\n| 삼성전자 | Galaxy용 퀄컴 비중은 자체 AP 전략 점검 요소 | 실제 모델별 채택·출하 구성 |\n| 국내 공급망 | 퀄컴 성장만으로 특정 국내 업체 수혜를 확정할 수 없음 | 직접 공급계약·제품 채택 공시 |\n\n## 다음 실적에서 확인할 항목\n\n- 데이터센터 분기 매출과 FY27 연간 목표 유지 여부.\n- 동일한 사업부 기준으로 비교한 QCT 수익성.\n- 가격 인상이 이익에 반영되는 시점과 판매량 영향.\n- 자동차 신규 플랫폼의 매출 지속성과 고객 다변화.\n- 현금흐름과 주주환원의 균형. 이번 요약에서 확인하지 않은 FCF 수치는 제시하지 않습니다.\n\n## 출처·원문 위치\n\n- [S1] [Qualcomm FY2026 Q4 Earnings Release](https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf) · 1쪽 연결 실적·세금, 2쪽 사업부·환원, 3쪽 전망.\n- [S2] [컨퍼런스콜 녹취록 및 시세](https://stockanalysis.com/stocks/qcom/transcripts/718644-q4-2026/) · CFO 준비발언 및 JPMorgan·Bernstein·Melius·Morgan Stanley Q&A.\n- [S3] [Yahoo Finance 실적 보도](https://au.finance.yahoo.com/news/qualcomm-tops-q4-estimates-but-q1-earnings-outlook-falls-short-211716293.html/) · 실적·컨센서스·가이던스.\n- [S4] [Investing.com 시간외 동향](https://ca.investing.com/news/stock-market-news/afterhours-movers-qcom-cohr-app-hubs-snap-fsly-fig-zg-bros-cde-432SI-4931991) · QCOM 항목.\n- [S5] [공식 발표 일정](https://www.qualcomm.com/news/releases/2026/10/qualcomm-schedules-fourth-quarter-and-fiscal-2026-earnings-relea) · 미국 11/4 13:45 PT 컨퍼런스콜.\n\n자료 확인일: 2026.11.05. 사실·경영진 전망·분석을 구분한 최초 등록본.\n"
+    },
     {
       "id": "msft-fy2027q1-20261031",
       "companyId": "msft",
@@ -976,6 +993,24 @@
       "desc": "Azure, Microsoft 365 및 AI 플랫폼을 중심으로 기업과 소비자 서비스를 제공.",
       "risk": "AI 투자·고객 집중·공급 일정·마진·밸류에이션",
       "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+    },
+    {
+      "id": "qcom",
+      "name": "퀄컴 Qualcomm",
+      "ticker": "QCOM",
+      "cat": "global",
+      "alias": "Qualcomm QCOM 퀄컴",
+      "sector": "반도체·무선통신·자동차·데이터센터",
+      "desc": "Snapdragon 반도체 및 무선통신 특허 라이선스 기업.",
+      "period": "FY2026 Q4",
+      "end": "2026-09-27",
+      "date": "2026-11-04",
+      "checked": "2026-11-05",
+      "currency": "USD",
+      "revenue": 10322,
+      "revLabel": "분기 GAAP 매출",
+      "url": "https://investor.qualcomm.com/financial-information",
+      "pdf": "https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf"
     }
   ]
 }
